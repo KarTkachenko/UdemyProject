@@ -9,3 +9,4 @@ def test_header(browser_example):
     header.verify_categories()
     header.verify_url()
     header.verify_titles()
+    pass
